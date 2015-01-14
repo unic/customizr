@@ -115,7 +115,7 @@ module.exports = function (modernizrPath) {
 					return process.stdout.write(">> ".green + string + "\n");
 				}
 
-				return process.stdout.write("OK".green + "\n");
+				return process.stdout.write("OK".green + "\n".black);
 			},
 
 			subhead : function (string) {
