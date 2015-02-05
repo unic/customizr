@@ -1,5 +1,9 @@
 # customizr
 
+**This repository was forked to have a reliable source when using ```npm install```. It will be removed as soon as [gulp-modernizr](https://github.com/doctyper/gulp-modernizr) has been officially published to the npm registry.**
+
+---
+
 [![Build Status](https://secure.travis-ci.org/doctyper/customizr.png?branch=master,develop)](https://travis-ci.org/doctyper/customizr)
 
 <!--- TODO: SOON
